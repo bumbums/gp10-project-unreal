@@ -1,6 +1,20 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# UnrealEngine Generated Files
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+# StarterContent를 형상 관리 하지않을경우
+# [프로젝트 명]/Content/StarterContent/
+
+# VS Generated Files
+*.suo
+*.db
+
+
 # Compiled Object files
 *.slo
 *.lo
